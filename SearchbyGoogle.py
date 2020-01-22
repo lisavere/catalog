@@ -8,7 +8,7 @@ time.sleep(5)
 
 textinput = driver.find_element_by_css_selector(".gLFyf")
 
-textinput.send_keys("АГУ")
+textinput.send_keys("Altay State University")
 time.sleep(3)
  
 submit_button = driver.find_element_by_css_selector(".gNO89b")
